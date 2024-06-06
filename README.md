@@ -1,4 +1,4 @@
-![image](https://github.com/PedAsi21/PedAsi21/assets/170443330/4b4cb30c-8b1d-4882-a915-150afc582179)Welcome to my profile!
+Welcome to my profile!
 My name is Pedro Assis
 
 -I'm student of the curse Alura
